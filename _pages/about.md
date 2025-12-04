@@ -26,13 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first year PhD student in the Kalhert School of Computing at the University of Utah. My advisor is Professor Mary Hall, and I am interested in High Performance Computing and Compiler Optimization. I graduated from Brigham Young University April, 2025 with a BS in Comuter Science with a Mathmatics minor.  
+I am a first year PhD student in the Kalhert School of Computing at the University of Utah. My advisor is Professor Mary Hall, and I am interested in High Performance Computing and Compiler Optimization. I graduated from Brigham Young University April, 2025 with a BS in Comuter Science with a Mathmatics minor.
 
 ## Research Interests
+
 High-performance computing • Compilers • Scientific computing  
 Functional programming • Algorithms and theory
 
 ## Experience
+
 **Pacific Northwest National Laboratory (PNNL): 2019 – 2025**  
 Worked on streaming decision trees, memory optimization, HPC simulation with SST, accuracy profiling, and hyper-parameter tuning with Optuna. Presented research at the IEEE WIE Leadership Summit 2024.
 
@@ -43,12 +45,14 @@ Implemented a fixed-point parsing framework, explored partial evaluation for per
 Taught grammars, parsing, proofs, sets, relations, graph algorithms, and debugging; graded assignments.
 
 ## Skills
+
 Python • C/C++ • JavaScript/TypeScript • Java • Bash • HTML • Racket  
 Parallel and distributed systems • Slurm • Git • Deep learning tools  
 Conversational Norwegian
 
 ## Community & Outreach
+
 Graduate CS Women — Social Events Coordinator  
 Graduate Student Advisory Committee — Member  
 WISTEM Council (Women in STEM) at BYU — Member  
-FIRST Robotics — Mentor & Referee  
+FIRST Robotics — Mentor & Referee
