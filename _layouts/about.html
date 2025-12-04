@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="about-container">
+  {% if page.subtitle %}
+    <h2 class="subtitle">{{ page.subtitle }}</h2>
+  {% endif %}
+
+  <div class="profile" style="float: {{ page.profile.align | default: 'left' }};">
+    <img src="{{ page.profile.image | relative_url }}" 
+         {% if page.profile.image_circular %} style="border-radius:50%;" {% endif %}
+         alt="Profile picture">
+    <div class="more-info">
+      {{ page.profile.more_info | markdownify }}
+    </div>
+  </div>
+
+  <div class="about-content">
+    {{ content }}
+  </div>
+</div>
+
